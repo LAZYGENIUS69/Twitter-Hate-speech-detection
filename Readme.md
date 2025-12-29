@@ -23,3 +23,18 @@ A Machine Learning–based web application to detect hate speech in Twitter text
 ---
 
 ## 📂 Project Structure
+Twitter-Hate-speech-detection/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── .gitattributes
+│
+├── stacking_model.pkl          # Trained ML model (Git LFS)
+├── tfidf_vectorizer.pkl        # TF-IDF vectorizer (Git LFS)
+│
+└── screenshots/                # (optional, for README)
+    └── app_demo.png
+
+
